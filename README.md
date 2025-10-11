@@ -1,2 +1,2 @@
 # IITMeowdras
-Community website for IITMeowdras
+A Community website for IITMeowdras
